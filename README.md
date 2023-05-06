@@ -2,7 +2,7 @@
 
 Line is a Processing Class that draws a single Line that can be resized by mouse clicking a single time and moving your mouse
 
-![image](Screenshots\Example1.png)
+![image](./Screenshots/Example1.png)
 
 ## How to use
 
